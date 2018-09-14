@@ -1,7 +1,7 @@
 ## Mobile-App-Design---iOS-Pre-work-Project
 
 ### App Description
-`TODO://` A simple iOS app with a button and label
+A simple iOS app with a button and label
 
 ### App Walk-though
 <img src="http://g.recordit.co/lSUnqkUR8j.gif" width=200><br>
